@@ -7,7 +7,7 @@
 <body>
   <h1>Hello User!!!</h1>
   <p>My name is Natcha Siaroon :)</p>
-  <p>My name is Yeepoon :)</p>
+  <p>My nickname is Yeepoon :)</p>
   <img src="cat.jpg">
   <img src="ramen2.jpg">
   <a href="https://www.canva.com/th_th/"></a>
